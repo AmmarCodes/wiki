@@ -17,7 +17,6 @@
 * [Become an Indie Hacker](https://www.indiehackers.com/start)
 * [How I Got 6.2 Million Pageviews and 144,920 Followers](https://medium.com/swlh/how-i-got-6-2-million-pageviews-and-144-920-followers-d4d3fa440802)
 
-
 ## Parenting
 
 * [10 Things to Stop Saying to Your Kids \(and What to Say Instead\)](https://lifehacker.com/10-things-to-stop-saying-to-your-kids-and-what-to-say-474962146)
@@ -26,5 +25,4 @@
 ## Sleep
 
 * [Siesta Sleep](https://www.mattressnerd.com/polyphasic-sleep/overviews/siesta/)
-
 
