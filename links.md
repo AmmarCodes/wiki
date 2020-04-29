@@ -26,3 +26,6 @@
 
 * [Siesta Sleep](https://www.mattressnerd.com/polyphasic-sleep/overviews/siesta/)
 
+## Web Development
+
+* [Make a smooth shadow](https://brumm.af/shadows)
