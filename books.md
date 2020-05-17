@@ -6,5 +6,5 @@
 
 * Rich Dad Poor Dad: What The Rich Teach Their Kids About Money - That The Poor And Middle Class Do Not!
 * Getting Things Done: The Art of Stress-Free Productivity
+* Make Time: How to Focus on what Matters Every Day
 * Animal Farm
-
