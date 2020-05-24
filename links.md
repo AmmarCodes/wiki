@@ -29,3 +29,7 @@
 ## Web Development
 
 * [Make a smooth shadow](https://brumm.af/shadows)
+
+## Marketing
+
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
