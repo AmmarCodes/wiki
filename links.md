@@ -2,6 +2,7 @@
 
 > List of interesting links grouped by topic.
 
+
 ## Books
 
 * [good books — books recommended by successful people](https://www.goodbooks.io/)
@@ -33,3 +34,7 @@
 ## Marketing
 
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
+
+## Soft Skills
+
+* [Tools for better thinking](https://untools.co/?ref=producthunt)
