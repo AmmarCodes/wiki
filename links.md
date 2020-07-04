@@ -2,7 +2,6 @@
 
 > List of interesting links grouped by topic.
 
-
 ## Books
 
 * [good books — books recommended by successful people](https://www.goodbooks.io/)
@@ -30,6 +29,7 @@
 ## Web Development
 
 * [Make a smooth shadow](https://brumm.af/shadows)
+* [Color Palette Generator](https://palettegenerator.colorion.co/) \(press space to get new palette\)
 
 ## Marketing
 
@@ -38,3 +38,4 @@
 ## Soft Skills
 
 * [Tools for better thinking](https://untools.co/?ref=producthunt)
+
