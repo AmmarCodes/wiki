@@ -6,3 +6,8 @@ I've read somewhere that dripping the coffee will reserve more useful compounds 
 
 I can understand that some people might add sugar to the coffee, and some might add milk. I prefer the coffee plain without any additives.
 
+## Mocha pot
+
+It produces coffee with medium strength between espresso and filter coffee, it uses a lot of coffee grounds compared to filter coffee dripping.
+
+I don't recommend it.
